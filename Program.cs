@@ -380,8 +380,6 @@ namespace HelloWorld
             foreach (int p in arr)
                 Console.Write(p + " ");
 
-
-
             //break
             Console.WriteLine();
             //break
